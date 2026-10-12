@@ -1,0 +1,3 @@
+export default function Contacto() {
+  return <section className="pagina-interna seccion contacto"><div className="seccion-encabezado"><span className="sobrelinea">CONECTÁ CON EL GREMIO</span><h1>Contacto</h1><p>¿Tenés una consulta sobre tu colección? Escribinos.</p></div><div className="contacto-panel"><div className="contacto-icono">✦</div><h2>La sombra siempre responde</h2><p>Podés comunicarte con el equipo de Shadow Store por correo electrónico.</p><a className="boton-primario" href="mailto:contacto@shadowstore.com">contacto@shadowstore.com</a><small>Proyecto académico de React · No se realizan ventas reales.</small></div></section>;
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sung Jin-Woo Shadow Monarch",
+    "precio": 25000,
+    "imagen": "/img/jinwoo-monarca.jpg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Igris Commander",
+    "precio": 18000,
+    "imagen": "/img/igris.jpg",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Beru King Ant",
+    "precio": 22000,
+    "imagen": "/img/beru.jpg",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "nombre": "Bellion Grand Marshal",
+    "precio": 30000,
+    "imagen": "/img/bellion.jpg",
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "nombre": "Cha Hae-In Hunter",
+    "precio": 15000,
+    "imagen": "/img/cha-haein.jpg",
+    "stock": 12
+  }
+]
